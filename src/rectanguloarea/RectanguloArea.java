@@ -17,6 +17,7 @@ public class RectanguloArea {
     public static void main(String[] args) {
         int base = 45;
         int altura = 79;
+        int modif;
         double area;
         area= base*altura;
         System.out.print("El área de un rectángulo de base "+ base + " y altura "+ altura +" es: "+area);
